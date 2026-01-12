@@ -5,6 +5,12 @@
   font-family: Inter, sans-serif;
 }
 
+/* navigation bar  */
+
+.navigation-bar{
+    display: flex;
+    justify-content: space-between;
+}
 .container{
   width:85%;
   margin:auto;
@@ -19,6 +25,14 @@
   display:flex;
   justify-content:space-between;
   align-items:center;
+}
+
+nav li{
+    list-style: none;
+}
+
+.navbar-list{
+    display: flex;
 }
 
 nav a{
