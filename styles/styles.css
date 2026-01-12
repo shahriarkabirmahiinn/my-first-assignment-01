@@ -103,7 +103,7 @@ nav a{
 
 .solution{
   display:flex;
-  align-items:center;
+  align-items:right;
   padding:80px 0;
 }
 
